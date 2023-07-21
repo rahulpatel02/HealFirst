@@ -1,0 +1,79 @@
+.main{
+    height: 280px;
+}
+.card{
+  cursor: pointer;
+}
+.doctorimg{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    margin-top: 40px;
+    
+   
+}
+.mainimg{
+  
+}
+.information{
+    width: 500px;
+    list-style-type: none;
+}
+.infocontent{
+    margin-top: 8px;
+    
+   
+}
+.name{
+    font-weight: 400;
+    
+   
+}
+.checked {
+    color:#00a500;
+    
+  }
+  .userrating{
+    margin-top: 15px;
+  }
+  span{
+    margin-top: 10px;
+  }
+  .payinformation{
+    margin-top: 130px;
+    margin-left:30px;
+   
+  }
+  .paybutton{
+    width: 212px;
+    height: 40px;
+    padding: 4px 0;
+margin-top: 20px;
+   
+    
+  }
+
+  .mainbutton{
+    text-transform: capitalize;
+    margin-left: 230px;
+    text-align: center;
+}
+
+
+ .maintimeslot{
+  /* border: 1px solid black; */
+ }
+.dayslot{
+height: 50px;
+  /* border: 1px solid red; */
+ 
+ }
+ .timeslot{
+  color: #14bef0;
+  background-color: white;
+  
+  /* border: 1px solid yellow; */
+ }
+ .slotscount{
+  margin-left: 230px;
+ }

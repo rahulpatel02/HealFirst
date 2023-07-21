@@ -1,0 +1,39 @@
+.banner .banner-img {
+    width: 100%;
+    height: auto;
+    zoom: 1;
+  margin-top: 40px;
+}
+
+img {
+    border: 0;
+}
+
+.description {
+    display: block;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.card{
+    margin-top: 15px;
+}
+.card-testmonial{
+    margin: 0px auto 50px;
+    width: 580px;
+    color: black;
+}
+.zoom {
+   
+  
+    transition: transform .5s;
+   
+   margin-top: 20px;
+  }
+  
+  .zoom:hover {
+  
+   -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1); 
+    transform: scale(1.1); 
+  }
+
